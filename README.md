@@ -14,7 +14,7 @@ Dabei lag der Fokus auf der visuellen Exploration von Unterschieden und Entwickl
 
 Die verwendeten Daten stammen von:
 
-[Our World in Data]([https://ourworldindata.org/](https://ourworldindata.org/grapher/energy-mix?source=total&metric=per_capita))
+[Our World in Data]([https://ourworldindata.org/grapher/energy-mix?source=total&metric=per_capita)]
 
 ## Projektinhalt
 
